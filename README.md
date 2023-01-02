@@ -1,4 +1,4 @@
-# Student Diversity & Performance
+# Student Diversity and Performance
 
 Masters students data and data cleaning to research the impact of team diversity on performance at individual and group level. 
 
